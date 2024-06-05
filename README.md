@@ -9,7 +9,7 @@
  
 <h2>📺 Certifications </h2>
 
-- [CompTIA A+ Certification](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTIA A+ Certification](https://www.credly.com/badges/72ebcba1-57cc-4adb-aca0-99a95cc1c3d3/linked_in?t=s90fjf)
 - [Cisco Skills For All Certificates of Completion](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2>📺 Popular YouTube Videos</h2>
